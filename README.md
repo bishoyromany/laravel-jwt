@@ -1,1 +1,1 @@
-### Larave JWT Starter Project
+### Laravel JWT Starter Project
